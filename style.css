@@ -1,0 +1,38 @@
+
+.container{
+    font-family: sans-serif;
+}
+.date{
+
+    margin-left:10px;
+    margin-right: 10px;
+}
+.title{
+    border: solid 1px rgb(229, 231, 236);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px ;
+    background-color: rgb(242, 245, 248);
+}
+.form{
+    border: solid 1px rgb(229, 231, 236);
+
+}
+
+
+.pay{
+background-color:
+
+}
+.footer{
+     border: solid 1px rgb(229, 231, 236);
+     background-color: rgb(242, 245, 248);
+     border-bottom-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     height: 70px;
+
+}
+.boton{
+    float: right;
+    margin-top: 12px;
+}
+
